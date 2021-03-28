@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yo Whatsupp!! Fauzan There 👋
 
 <!--
 **zanynn/zanynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zanynn&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanynn&layout=compact&theme=radical)](https://github.com/zanynn/polinema_mobile_flutter_hello)
